@@ -1,4 +1,4 @@
-# Lucille Huang 黃○○
+# Lucille Huang
 
 **PhD Candidate · Graduate Institute of Life Sciences · National Defense Medical University, Taiwan**
 
