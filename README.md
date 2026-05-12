@@ -6,29 +6,30 @@
 
 ---
 
-Huang's doctoral research examines how fucoidan — a sulfated polysaccharide isolated from *Saccharina japonica* — modulates early platelet activation in the setting of burn wound healing. Platelets within thermally injured vasculature undergo receptor-mediated signaling cascades that govern hemostasis, inflammation, and tissue repair; understanding how a marine-derived polysaccharide intervenes in these cascades has both mechanistic and translational significance. Using platelet isolation, light transmission aggregometry, flow cytometry, and phosphoproteomic profiling, she maps the signaling nodes — including GPVI, NRP-1, and the downstream FAK → Akt axis — that mediate fucoidan's effect on platelet behavior in the burn wound context.
+Huang's doctoral research examines how metabolic reprogramming of tumor-associated macrophages (TAMs) shapes the immunosuppressive microenvironment in hepatocellular carcinoma (HCC). Macrophages within the tumor stroma undergo a spectrum of functional polarization states that govern local cytokine networks, immune cell exclusion, and resistance to therapy. Using primary macrophage culture systems, co-culture models, and metabolic profiling, she investigates how HIF-1α-mediated glycolytic reprogramming and mTOR signaling converge to sustain protumoral macrophage phenotypes — with the aim of identifying metabolic vulnerabilities that could be exploited to remodel the HCC immune microenvironment.
 
-Fucoidan · Platelet Activation · GPVI · NRP-1 · Burn Wound Healing · Phosphoproteomics · Translational Medicine
+Hepatocellular Carcinoma · Tumor-Associated Macrophages · Metabolic Reprogramming · HIF-1α · mTOR Signaling · Tumor Microenvironment · Translational Oncology
 
 ---
 
 **Current directions**
 
-- Phosphoproteomic mapping of SJF-stimulated platelet signaling
-- NRP-1 as a candidate fucoidan receptor in thermally injured tissue
-- Translational potential of marine-derived polysaccharides in wound care
+- Macrophage metabolic state profiling in the HCC tumor microenvironment
+- HIF-1α-mediated glycolytic reprogramming and immunosuppressive gene regulation
+- mTOR signaling in TAM polarization plasticity
+- Macrophage-targeting strategies in murine HCC models
 
 ---
 
 **Methods**
 
-Platelet isolation · Light transmission aggregometry · Flow cytometry (CD62P, PAC-1) · Western blot · Phosphoproteomics · Murine burn models · IPA pathway analysis · Python · R
+Primary macrophage culture · Co-culture models · Metabolic profiling · Flow cytometry · Western blot · Python · R
 
 ---
 
 **Knowledge infrastructure**
 
-Obsidian for interconnected literature and hypothesis networks; Zotero for reference management; Python and R for phosphoproteomic pipelines. Parallel digital and physical systems — treated as a single integrated whole.
+Obsidian for interconnected literature and hypothesis networks; Zotero for reference management. Parallel digital and physical systems — treated as a single integrated whole.
 
 ---
 
