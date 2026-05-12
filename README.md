@@ -1,33 +1,21 @@
 # Lucille Huang
 
-**PhD Candidate · Graduate Institute of Life Sciences · National Defense Medical University, Taiwan**
+PhD Candidate · Graduate Institute of Life Sciences · National Defense Medical University, Taiwan
 
 ---
 
-## Research
+My doctoral research examines the molecular mechanisms by which fucoidan — a sulfated polysaccharide isolated from the brown alga *Saccharina japonica* — modulates early platelet activation in the setting of burn wound healing. I combine receptor-level biochemical characterization with phosphoproteomic profiling to map the signaling nodes — including GPVI and the NRP-1 → FAK → Akt axis — that govern platelet behavior in thermally injured tissue.
 
-I study the molecular mechanisms by which *Saccharina japonica*-derived fucoidan (SJF) modulates early platelet activation to promote burn wound healing.
-
-**Current focus:** NRP-1 → FAK → Akt signaling axis in platelet biology
-
-**Keywords:** `fucoidan` `platelet activation` `GPVI` `P-selectin` `NRP-1` `burn wound healing` `hemostasis` `phosphoproteomics`
+**Research areas:** fucoidan · platelet biology · GPVI signaling · wound healing · phosphoproteomics · translational medicine
 
 ---
 
-## Methods
+**Experimental:** platelet isolation · light transmission aggregometry · flow cytometry (CD62P, PAC-1) · Western blotting · murine burn wound models
 
-**Experimental** — Flow cytometry · Platelet aggregation (LTA) · CD62P / PAC-1 expression · Clot retraction · Western blot · In vivo burn rat model
-
-**Analytical** — Phosphoproteomics · IPA (Ingenuity Pathway Analysis) · Statistical modeling
+**Analytical:** phosphoproteomics · pathway analysis (IPA) · R · Python
 
 ---
 
-## Links
+[lucinuo.github.io](https://lucinuo.github.io) · stu9500149@gmail.com · Taipei, Taiwan
 
-🌐 [lucinuo.github.io](https://lucinuo.github.io) · Personal academic site  
-🏫 National Defense Medical University, Taipei, Taiwan  
-📧 stu9500149@gmail.com
-
----
-
-<sub>PhD Y3 · Passed Qualifying Examination · Supervised by Prof. Chih-Chin Shih</sub>
+*Supervised by Prof. Chih-Chin Shih · Qualifying examination passed · PhD Year 3*
