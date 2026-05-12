@@ -1,4 +1,4 @@
-[![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Lucille%20Huang&fontSize=60&animation=fadeIn&fontAlignY=38&desc=PhD%20Candidate%20·%20Platelet%20Biology%20·%20Burn%20Wound%20Healing&descAlignY=56&descAlign=50)](https://lucinuo.github.io)
+[![header](https://raw.githubusercontent.com/Lucinuo/Lucinuo/main/banner.svg)](https://lucinuo.github.io)
 
 <p align="center">
   <a href="https://lucinuo.github.io"><img height="28" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=github&logoColor=white"></a>&nbsp;&nbsp;
