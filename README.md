@@ -12,7 +12,7 @@ PhD Candidate at the Graduate Institute of Life Sciences, National Defense Medic
 
 **Methods**
 
-Western blot · Flow cytometry · Data analysis (Python · R)
+Western blot · Flow cytometry · Data analysis
 
 ---
 
