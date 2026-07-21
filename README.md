@@ -26,5 +26,5 @@ This GitHub profile contains public source code, technical documentation, and se
 ---
 
 **Lucille Huang**<br>
-Doctoral researcher, Graduate Institute of Life Sciences, National Defense Medical University<br>
+PhD Candidate, Graduate Institute of Life Sciences, National Defense Medical University<br>
 Taipei, Taiwan
