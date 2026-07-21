@@ -10,8 +10,8 @@ My current work connects experimental biology, platelet signaling, bioactive com
 
 ## Selected public work
 
-- **[Lighthouse](https://lucinuo.github.io/projects/lighthouse/)** — a public concept project exploring how two people can signal quiet presence without creating another notification stream. The interactive concept is available to view.
-- **[Bearing](https://lucinuo.github.io/projects/bearing/)** — a private application for personal reflection and direction. Its design concept and decision principles are public; the application and its data are not open for use.
+- **[Lighthouse](https://lucinuo.github.io/projects/lighthouse/)** — a public concept prototype for a quiet companionship application, exploring how two people can signal presence without creating another notification stream. The interactive concept is available to view.
+- **[Bearing](https://lucinuo.github.io/projects/bearing/)** — a private application for personal reflection and direction. Its design concept and decision principles are public; private login, the application, and its data are not open for public use.
 - **[Lucinuo Website System](https://github.com/Lucinuo/lucinuo.github.io)** — the public website, shared design system, and deployment source.
 - **[Literature Knowledge System](https://lucinuo.github.io/projects/)** — a completed case study about evidence structure and traceability. Only the reusable method is public; private research records are not included.
 - **[Research Information Router](https://lucinuo.github.io/projects/)** — an experimental decision flow for separating sources, inferences, raw records, research decisions, and tasks.
